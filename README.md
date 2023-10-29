@@ -27,15 +27,6 @@ SNS | [@Clown_YH](https://www.twitter.com/Clown_YH)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
----
-
 ### 특징
   * 전형적인 INFP
   * 꼼꼼함

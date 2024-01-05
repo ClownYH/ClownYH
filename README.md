@@ -48,3 +48,8 @@ SNS | [@Clown_YH](https://www.twitter.com/Clown_YH)
 <br>
 
 ### 훈련시작 2023.10.04. -> 종료예정 2024.03.26.
+
+<br>
+
+### 세미 프로젝트 팀 YYC : BUNNY ROOM 
+(2023.12.13. ~ 2024.01.08. https://github.com/yycBunnyRoom/SEMI_PROJECT-BUNNY_ROOM)

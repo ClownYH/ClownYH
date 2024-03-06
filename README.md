@@ -53,3 +53,6 @@ SNS | [@Clown_YH](https://www.twitter.com/Clown_YH)
 
 ### 세미 프로젝트 팀 YYC : BUNNY ROOM 
 (2023.12.13. ~ 2024.01.08. https://github.com/yycBunnyRoom/SEMI_PROJECT-BUNNY_ROOM)
+
+### 파이널 프로젝트 팀 Code2AM : Stock.Log
+(2024.02.21. ~ )

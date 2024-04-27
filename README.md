@@ -34,7 +34,9 @@ SNS | [@Clown_YH](https://www.twitter.com/Clown_YH)
 <hr>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ClownYH&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ClownYH&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwer24)](https://solved.ac/qwer24/)
+
 
 <br>
 

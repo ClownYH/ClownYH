@@ -2,7 +2,7 @@
 ---
 
 ### 소개
-![프사](프사.jpg "프로필사진")
+<img src="프사.jpg" width="50%"/>
 <br>
 
 ### Skill
@@ -11,10 +11,18 @@
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FD5300.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Spirng](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=FFFFFF)
+<br>
+![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=ffffff)
+![jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=ffffff)
 
 ### Tool
 ![visualstudiocode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![dbeaver](https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white)
+![sourcetree](https://img.shields.io/badge/sourcetree-0052CC.svg?&style=for-the-badge&logo=sourcetree&logoColor=white)
+![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 
 
 
@@ -47,6 +55,16 @@ SNS | [@Clown_YH](https://www.twitter.com/Clown_YH)
   * 꼼꼼함
   * 성실함
 
-<br>
+---
 
-### 훈련시작 2023.10.04. -> 종료예정 2024.03.26.
+### (스마트앱&콘텐츠개발) 자바기반 풀스택 웹 개발자(프론트엔드&백엔드)4 수료
+
+교육기간 : 2023.10.04. ~ 2024.02.26.
+
+
+|분류| Semi Project | Final Project | Portfolio
+|:---:|:---:|:---:|:---:|
+|팀|팀 YYC|팀 Code2AM|개인|
+|프로젝트명|Bunny Room|Stock.Log|포트폴리오
+|기간|2023.12.13. ~ 2024.01.08.|2024.02.21. ~ 2024.03.25.| - |
+|링크|https://github.com/yycBunnyRoom/SEMI_PROJECT-BUNNY_ROOM|https://github.com/Code2AM|https://clownyh.github.io|
